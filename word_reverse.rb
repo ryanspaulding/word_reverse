@@ -17,6 +17,7 @@
 #	word_reverse.rb example_sentences_to_reverse.txt
 #
 #	Author: ryanspaulding@gmail.com
+#	GitHub: https://github.com/ryanspaulding/word_reverse
 ###############################
 
 
