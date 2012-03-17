@@ -1,0 +1,10 @@
+Hello World
+Hello Giraffe
+
+Zero@Word
+One,Word
+Two.Words
+Three!Words
+Word.
+Goodbye World
+Goodbye Giraffe
